@@ -21,7 +21,7 @@ resource "aws_internet_gateway" "default" {
 terraform {
   backend "s3" {
     bucket = "devopsgitclass"
-    key    = "terraform.tfstate"
+    key    = "jenkins-docker-terraform.tfstate"
     region = "us-east-1"
   }
 }
