@@ -1,6 +1,6 @@
 {
-    "aws_access_key": "AKIA4NHQRPQB5MWFD367",
-    "aws_secret_key": "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",
+    "aws_access_key": "XXX",
+    "aws_secret_key": "YYY",
     "region": "us-east-1",
     "source_ami":"ami-04505e74c0741db8d",
     "instance_type":"t2.nano",
